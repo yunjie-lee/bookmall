@@ -1,0 +1,12 @@
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920599194291', '2020-06-13 22:51:59', 2100.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920599877881', '2020-06-13 22:53:07', 2100.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920600397141', '2020-06-13 22:53:59', 2100.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920606315501', '2020-06-13 23:03:51', 168.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920609577041', '2020-06-13 23:09:17', 16.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920610518021', '2020-06-13 23:10:51', 16.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15920615913791', '2020-06-13 23:19:51', 100.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15921863965491', '2020-06-15 09:59:56', 84.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15921875500861', '2020-06-15 10:19:10', 136.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15921888746541', '2020-06-15 10:41:14', 91.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('15921916248041', '2020-06-15 11:27:04', 32.00, 0, 1);
+INSERT INTO book.t_order (order_id, create_time, price, status, user_id) VALUES ('159894964040725', '2020-09-01 16:40:40', 16.00, 0, 25);
